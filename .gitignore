@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+.idea/
+.DS_Store
+*.spec
+Restaurant Inventory.db
+recipes.json
