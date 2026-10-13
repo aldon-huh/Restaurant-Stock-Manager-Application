@@ -10,8 +10,12 @@ Select the option you want, listed by numbers below (See 'Visual Demo' below for
 
 How to Upload Personal Inventory:
 
-Create an excel, and create six columns and name them in order: [Ingredient, current_stock, min_required, unit, unit_price, supplier]
+Create an excel, and create six columns and name them in order: 
+
+[Ingredient, current_stock, min_required, unit, unit_price, supplier]
+
 Fill in the information below each column.
+
 IMPORTANT!: When done, download the file as a .csv, and name it 'Inventory.csv'
 Go to the folder where the executable is
 Paste the file into the folder with the executable, and run!
