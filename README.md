@@ -12,7 +12,7 @@ How to Upload Personal Inventory:
 
 Create an excel, and create six columns and name them in order: 
 
-[Ingredient, current_stock, min_required, unit, unit_price, supplier]
+[ingredient, current_stock, min_required, unit, unit_price, supplier]
 
 Fill in the information below each column.
 
